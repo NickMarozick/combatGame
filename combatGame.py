@@ -225,9 +225,3 @@ class CombatGame:
         self.resetGame()
 
         self.playAgain()
-
-
-nyo = CombatGame()
-
-
-nyo.playCombatGame()
