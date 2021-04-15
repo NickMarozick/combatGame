@@ -1,9 +1,9 @@
 from character import Character
-from vampire import Vampire
-from blueMen import BlueMen
-from barbarian import Barbarian
-from medusa import Medusa
-from harryPotter import HarryPotter
+from characters.vampire import Vampire
+from characters.blueMen import BlueMen
+from characters.barbarian import Barbarian
+from characters.medusa import Medusa
+from characters.harryPotter import HarryPotter
 from collections import deque
 
 class CombatGame:
