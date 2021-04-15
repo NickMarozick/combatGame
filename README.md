@@ -3,5 +3,5 @@ Python Object Oriented Python command line combat game with different character 
 
 To Run:
 
-1) clone git repo
-2) in the repo, on the command line enter: python3 main.py
+1. clone git repo
+1. in the repo, on the command line enter: ```python3 main.py```
